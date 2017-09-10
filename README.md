@@ -1,2 +1,2 @@
-# Kaggle_Titanic_Survivor
-A simple model for titanic survivor
+# Titanic_Machine_Learning_From_Disaster
+A model for titanic survivor
